@@ -1,7 +1,7 @@
 <?php
 /**
  * The base configuration for WordPress
- * Neharika Padala
+ * Neharika Padala check 1
  * The wp-config.php creation script uses this file during the
  * installation. You don't have to use the web site, you can
  * copy this file to "wp-config.php" and fill in the values.
